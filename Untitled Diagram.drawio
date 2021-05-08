@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T20:47:53.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="GxaVVpT_lyqQvFxDBB_p" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T08:07:14.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="jCf2X3o2asMXb-hXpZet" version="14.6.11" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2668" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="3142" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,9 +313,6 @@
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-90" value="Limitierungen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="1270" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5EttTMxwSdxb7IPhr4SC-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="820" width="570" height="400" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-94" value="" style="shape=or;whiteSpace=wrap;html=1;fontSize=24;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="335.57" y="594.42" width="52.3" height="88.85" as="geometry" />
