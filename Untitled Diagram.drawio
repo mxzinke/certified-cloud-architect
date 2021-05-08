@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T08:45:31.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="W_I1y7ZPDAPzGTK03xBZ" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T09:55:39.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="md91x9Whu0ZX65xbIAZc" version="14.6.11" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2829" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5EttTMxwSdxb7IPhr4SC-211" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-105" y="-90" width="80" height="90" as="geometry" />
+          <mxGeometry x="-95" y="-90" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-204" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-20.400000000000002" y="-150" width="62.7" height="80" as="geometry" />
+          <mxGeometry x="-10.000000000000002" y="-140" width="62.7" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-153" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="715" y="190" width="120" height="60" as="geometry" />
@@ -204,7 +204,7 @@
           <mxGeometry x="77.3" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-55" value="Container" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="82.3" y="805" width="60" height="30" as="geometry" />
+          <mxGeometry x="81.3" y="805" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="167.3" y="780" width="80" height="60" as="geometry" />
@@ -213,7 +213,7 @@
           <mxGeometry x="177.3" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-59" value="Container" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="182.3" y="805" width="60" height="30" as="geometry" />
+          <mxGeometry x="181.3" y="805" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-60" value="Pod&amp;nbsp;2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="171.3" y="780" width="40" height="20" as="geometry" />
@@ -234,7 +234,7 @@
           <mxGeometry x="77.3" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-67" value="Container" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="82.3" y="695" width="60" height="30" as="geometry" />
+          <mxGeometry x="81.3" y="695" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="167.3" y="670" width="80" height="60" as="geometry" />
@@ -243,7 +243,7 @@
           <mxGeometry x="177.3" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-70" value="Container" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="182.3" y="695" width="60" height="30" as="geometry" />
+          <mxGeometry x="181.3" y="695" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-71" value="Pod&amp;nbsp;2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="171.3" y="670" width="40" height="20" as="geometry" />
@@ -309,10 +309,10 @@
           <mxGeometry x="314.00000000000006" y="610" width="96" height="43" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="320" width="320" height="440" as="geometry" />
+          <mxGeometry x="820" y="320" width="320" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="5EttTMxwSdxb7IPhr4SC-100" value="&lt;h1&gt;Google Cloud Run&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460.5" y="320" width="320" height="120" as="geometry" />
+        <mxCell id="5EttTMxwSdxb7IPhr4SC-100" value="&lt;h1&gt;Google Cloud Run&lt;/h1&gt;&lt;p&gt;A serverless platform for deploying containers directly to the cloud without the manner of managing infrastructure.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460.5" y="320" width="320" height="290" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-108" value="&lt;font style=&quot;font-size: 10px&quot;&gt;more Code&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="135" y="120" width="80" height="20" as="geometry" />
@@ -531,7 +531,7 @@
         <mxCell id="5EttTMxwSdxb7IPhr4SC-197" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="657" y="-130" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5EttTMxwSdxb7IPhr4SC-202" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=10;fontColor=#000000;strokeWidth=1;exitX=0.036;exitY=0.055;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5EttTMxwSdxb7IPhr4SC-5" edge="1">
+        <mxCell id="5EttTMxwSdxb7IPhr4SC-202" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=10;fontColor=#000000;strokeWidth=1;exitX=0.036;exitY=0.055;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" source="5EttTMxwSdxb7IPhr4SC-5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="100" y="50" as="sourcePoint" />
             <mxPoint y="-50" as="targetPoint" />
@@ -563,9 +563,6 @@
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-212" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-85" y="-90" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5EttTMxwSdxb7IPhr4SC-213" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="-110" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HkbM3BWrgPiWBRJZKnyU-1" value="DLP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="52.5" width="36" height="20" as="geometry" />
@@ -601,8 +598,11 @@
         <mxCell id="HkbM3BWrgPiWBRJZKnyU-4" value="&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;Upload /&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;Download&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#32639C;fontSize=8;rotation=-40;" vertex="1" parent="1">
           <mxGeometry x="330" y="-20" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5EttTMxwSdxb7IPhr4SC-84" value="&lt;h1&gt;Google Cloud App&lt;/h1&gt;&lt;p&gt;It is a serverless platform for hosting web applications. It provides the possibility to directly deploy your code to predefined containers for the runtime of your application. Use cases are in Web, Mobile, and IoT applications.&lt;/p&gt;&lt;p&gt;Is available in two different environments. The &lt;b&gt;default&lt;/b&gt;&amp;nbsp;and the &lt;b&gt;flexible&lt;/b&gt; environment.&lt;/p&gt;&lt;p&gt;The &lt;b&gt;default env.&lt;/b&gt; is running in a sandbox and does restrict the used programming languages strictly. But it does allow Google to quickly scale the application up and down the application to react to spikes of incoming requests.&lt;/p&gt;&lt;p&gt;The &lt;b&gt;flexible env.&lt;/b&gt; is able to run also code which is not in the default list of supported programming languages or dependents on native code. With this precondition, the flexible environment is only made for applications with normal fluctuations of traffic and can only scale up stepwise.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="820" y="320" width="320" height="330" as="geometry" />
+        <mxCell id="5EttTMxwSdxb7IPhr4SC-84" value="&lt;h1&gt;Google Cloud App&lt;/h1&gt;&lt;p&gt;It is a serverless platform for hosting web applications. It provides the possibility to directly deploy your code to predefined containers for the runtime of your application. Use cases are in Web, Mobile, and IoT applications.&lt;/p&gt;&lt;p&gt;Is available in two different environments. The &lt;b&gt;default&lt;/b&gt;&amp;nbsp;and the &lt;b&gt;flexible&lt;/b&gt; environment.&lt;/p&gt;&lt;p&gt;The &lt;b&gt;default env.&lt;/b&gt; is running in a sandbox and does restrict the used programming languages strictly. But it does allow Google to quickly scale the application up and down the application to react to spikes of incoming requests.&lt;/p&gt;&lt;p&gt;The &lt;b&gt;flexible env.&lt;/b&gt; is able to run also code which is not in the default list of supported programming languages or dependents on native code. With this precondition, the flexible environment is only made for applications with normal fluctuations of traffic and can only scale up stepwise.&lt;/p&gt;&lt;p&gt;Background processes are only available in flexible environment, background threads on both, but with restrictions on default env.&lt;/p&gt;&lt;p&gt;Connectable with databases like Cloud SQL. You only have to change IAM permissions of the Service-Account.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="320" width="320" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="HkbM3BWrgPiWBRJZKnyU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;fontColor=#32639C;" edge="1" parent="1" source="5EttTMxwSdxb7IPhr4SC-84" target="5EttTMxwSdxb7IPhr4SC-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
