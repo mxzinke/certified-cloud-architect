@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T19:54:28.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="WjOV0xA8vlFSqwp0UJV0" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T20:32:49.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="i_uWdRlID1oSDPdAMM-Z" version="14.6.11" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2145" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,8 +571,8 @@
             <mxPoint y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5EttTMxwSdxb7IPhr4SC-201" value="Cloud Armor" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="19.999999999999996" y="-20" width="80" height="20" as="geometry" />
+        <mxCell id="5EttTMxwSdxb7IPhr4SC-201" value="Cloud Armor &amp;amp; Firewall" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5EttTMxwSdxb7IPhr4SC-203" value="Hacker&lt;br&gt;/ DDoS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;labelBackgroundColor=none;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="0.9499999999999993" y="-145" width="20" height="40" as="geometry" />
